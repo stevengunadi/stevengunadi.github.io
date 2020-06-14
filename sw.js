@@ -11,6 +11,7 @@ self.addEventListener('install', function(event) {
           '/src/images/icon/icon-48x48.png',
           '/src/images/icon/icon-96x96.png',
           '/src/images/icon/icon-144x144.png',
+          '/src/images/icon/icon-192x192.png',
           '/src/images/icon/icon-256x256.png',
           '/src/images/icon/icon-384x384.png',
           '/src/images/icon/icon-512x512.png'

@@ -8,12 +8,12 @@ self.addEventListener('install', function(event) {
           '/manifest.json',
           '/src/css/app.css',
           '/src/js/app.js',
-          '/src/images/icons/icon-48x48.png',
-          '/src/images/icons/icon-96x96.png',
-          '/src/images/icons/icon-144x144.png',
-          '/src/images/icons/icon-256x256.png',
-          '/src/images/icons/icon-384x384.png',
-          '/src/images/icons/icon-512x512.png'
+          '/src/images/icon/icon-48x48.png',
+          '/src/images/icon/icon-96x96.png',
+          '/src/images/icon/icon-144x144.png',
+          '/src/images/icon/icon-256x256.png',
+          '/src/images/icon/icon-384x384.png',
+          '/src/images/icon/icon-512x512.png'
         ])
       })
   );

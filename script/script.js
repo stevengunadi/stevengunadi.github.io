@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    let url = "http://newsapi.org/v2/top-headlines?country=id&apiKey=267e8b25307f4216bf7eb86ae7b99748";
+    let url = "https://newsapi.org/v2/top-headlines?country=us&apiKey=267e8b25307f4216bf7eb86ae7b99748";
   
     $.ajax({
       url: url,

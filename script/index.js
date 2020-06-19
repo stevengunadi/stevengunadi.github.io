@@ -1,4 +1,3 @@
-
 const urlTrending = "https://newsapi.org/v2/top-headlines?country=us&apiKey=267e8b25307f4216bf7eb86ae7b99748";
 fetch(urlTrending)
 .then(r => r.json())
